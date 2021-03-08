@@ -1,0 +1,12 @@
+sftp-config*.json
+*.py[cod]
+/.idea/*
+*.o*
+*.err*
+.DS_Store
+/jobs/
+/*slowfast_*/
+/experiments/
+/scores/
+/submit_scripts/
+/wandb/
