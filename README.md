@@ -4,6 +4,8 @@ This repository implements the model proposed in the paper:
 
 Evangelos Kazakos, Arsha Nagrani, Andrew Zisserman, Dima Damen, **Slow-Fast Auditory Streams for Audio Recognition**, *ICASSP*, 2021
 
+[Project's webpage](https://ekazakos.github.io/auditoryslowfast/)
+
 [arXiv paper](https://arxiv.org/abs/2103.03516)
 
 ## Citing
