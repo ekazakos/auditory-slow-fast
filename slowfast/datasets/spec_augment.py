@@ -1,6 +1,6 @@
 import random
 import torch
-from exp.nb_SparseImageWarp import sparse_image_warp
+from sparse_image_warp import sparse_image_warp
 
 
 def time_warp(spec, W=5):
