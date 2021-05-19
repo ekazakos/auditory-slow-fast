@@ -6,7 +6,7 @@ Evangelos Kazakos, Arsha Nagrani, Andrew Zisserman, Dima Damen, **Slow-Fast Audi
 
 [Project's webpage](https://ekazakos.github.io/auditoryslowfast/)
 
-[arXiv paper](https://arxiv.org/abs/2103.03516)
+[[arXiv paper]](https://arxiv.org/abs/2103.03516) [[IEEE Xplore paper]](https://ieeexplore.ieee.org/document/9413376)
 
 ## Citing
 
